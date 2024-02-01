@@ -1,0 +1,10 @@
+table,tr,th,td{
+    border: 1px solid rgb(0, 0, 0);
+    height: 50px;
+    width: 500px;
+    text-align: center;
+}
+table{width: 100%;}
+.gradient{
+    background: linear-gradient( 315deg, rgba(121, 121, 121, 0.685) 0, rgba(255, 143, 123, 0.986) 51%, rgba(255, 255, 255, 0.521) 51%, rgb(255, 139, 220) 100%), radial-gradient( ellipse closest-side, rgb(255, 44, 44) 0, rgb(255, 141, 121) 38%, rgba(255,124,0,1) 65%, rgb(150, 255, 237) 100%);
+ }
